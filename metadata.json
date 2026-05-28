@@ -1,0 +1,6 @@
+{
+  "name": "Napoli - Pizzería Italiana",
+  "description": "Menú digital y portal de reservas de alta gama para la pizzería Napoli. Un diseño sofisticado, rústico-moderno y minimalista con una estética fotorrealista.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
